@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-🔭 I’m currently working on weaver
-🌱 I’m currently learning
+- 🔭 I’m currently working on weaver
+- 🌱 I’m currently learning 
 
 <img align="right" src="https://github-readme-stats-one-bice.vercel.app/api?username=saozimian&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" />
 
