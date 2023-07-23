@@ -2,7 +2,7 @@
 <img align="right" src="https://github-readme-stats-one-bice.vercel.app/api?username=saozimian&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" />
 
 <!--
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/saozimian/saozimian/assets/github-contribution-grid-snake.svg" /></div>
+![](https://raw.githubusercontent.com/saozimian/saozimian/master/assets/github-contribution-grid-snake.svg)
 
 - 🔭 I’m currently working on java.
 
