@@ -1,24 +1,15 @@
-👻 Hello!
-<img align="right" src="https://github-readme-stats-one-bice.vercel.app/api?username=saozimian&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" />
+### Hi I'm DIYgod 👋
 
-<!--
+<img style="max-width: 450px" align="right" src="https://github-readme-stats.vercel.app/api?username=saozimian&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true&include_all_commits=true&count_private=true&hide_rank=true" alt="DIYgod's github stats"/>
 
+A lovely web developer based in Singapore.
+Developer of xLog, RSSHub and DPlayer.
+Co-founder of Crossbell and RSS3.
 
-- 🔭 I’m currently working on java.
+写代码是热爱，写到世界充满爱！
 
-
-**saozimian/saozimian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on weaver
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Read my  
+- Talk with me by or  
+- Follow me on 
 
 ![](https://raw.githubusercontent.com/saozimian/saozimian/master/assets/github-contribution-grid-snake.svg)
